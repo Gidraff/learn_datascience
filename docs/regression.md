@@ -9,3 +9,18 @@ Here, two or more independent variables are used to predict the value of a depen
 
 ##### Polynomial Linear Regression:
 This is a special case multiple linear Regression where the independents variables have power (exponents)
+
+##### Support Vector Regression:
+SVR is a type of Support vector machine that supports linear and non-linear regression
+
+##### Decision Tree Regression
+Works by  breaking down data set into smaller subsets, and at the same time creating a decision tree. What you get as a final result is, decision nodes and leaf nodes.
+NB: Performs best with high dimensional datasets
+
+Well suited for categorical output problems.
+
+- The leave nodes —> represents output of the algorithms
+
+- Decision nodes —> represents a condition
+
+It’s under supervised learning in ML
