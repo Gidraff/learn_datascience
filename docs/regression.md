@@ -24,3 +24,7 @@ Well suited for categorical output problems.
 - Decision nodes —> represents a condition
 
 It’s under supervised learning in ML
+
+##### Random Forest Regression
+Uses ensemble technique 
+A technique that combines the predictions from multiple ML algorithms together to make more accurate predictions. For instance we could combine the prediction  (leaf nodes) from the decision tree.
